@@ -2,18 +2,13 @@
 
 This repository collects research on **multimodal video agents** — systems that *think with videos* to perceive, reason, and act. Concretely, we focus on works that:
 
-- **Build agentic video systems** that go beyond passive perception, such as:
-  - Video understanding with temporal zoom-in / search, frame- or shot-level CoT, cross-video reasoning, and streaming token selection.
+- **Agentic video understanding systems** that go beyond passive perception, such as:
   - Tool-using agents (e.g., retrieval, external planners, simulators, search engines) for complex video exploration and decision-making.
-  - Multi-agent or multi-round collaboration, uncertainty-aware CoT, and task divide-and-conquer for robust long-video understanding.
-
-- **Leverage learning to improve video reasoning**, including:
-  - Reinforcement learning, curiosity-driven objectives, and agentic data synthesis to train “think-with-video” policies.
-  - Training-free pipelines that orchestrate existing VLMs/MLLMs via prompting, scheduling, and temporal policies.
+  - Video understanding with temporal zoom-in / search, frame- or shot-level CoT, cross-video reasoning, and streaming token selection.
+  - Multi-agent or multi-round collaboration, uncertainty-aware CoT, and task divide-and-conquer for robust video understanding.
 
 - **Connect video reasoning with generation**, including:
   - Video generation models evaluated for reasoning ability, and unified benchmarks that treat generation as a reasoning paradigm.
-  - Benchmarks, leaderboards, and toolkits for measuring video-agent capabilities (e.g., long-video QA, temporal reasoning, agentic behavior).
 
  
 ## Table of Contents
