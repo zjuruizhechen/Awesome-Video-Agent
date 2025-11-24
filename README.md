@@ -17,11 +17,11 @@ This repository collects research on **multimodal video agents** — systems tha
 
  
 ## Table of Contents
-- [Updates](#updates)
+- [Updates](#updates): Current progress.
 - [Papers](#papers): Novel architectures, training strategies, or agent designs centered on video understanding.
 - [Evaluation and Benchmarks](#benchmarks): Public leaderboards or evaluation suites targeting temporal reasoning or agent capabilities.
 - [Datasets](#datasets): Curated video corpora for supervised, self-supervised, or reinforcement learning.
-- [Contributing](#contributing)
+- [Contributing](#contributing): How to add related works.
 - [License](#license)
 
 ## Updates
