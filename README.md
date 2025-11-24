@@ -6,10 +6,8 @@ A curated collection of papers, benchmarks, codebases, and other learning resour
 - [Scope](#scope)
 - [Resource Overview](#resource-overview)
 - [Papers](#papers)
-- [Benchmarks](#benchmarks)
+- [Evaluation and Benchmarks](#benchmarks)
 - [Datasets](#datasets)
-- [Frameworks & Tooling](#frameworks--tooling)
-- [Tutorials & Courses](#tutorials--courses)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,8 +26,7 @@ Use the following sections as anchors for contributions:
 - **Papers**: Novel architectures, training strategies, or agent designs centered on video understanding.
 - **Benchmarks**: Public leaderboards or evaluation suites targeting temporal reasoning or agent capabilities.
 - **Datasets**: Curated video corpora for supervised, self-supervised, or reinforcement learning.
-- **Frameworks & Tooling**: Open-source libraries, model checkpoints, evaluation scripts, and agent stacks.
-- **Tutorials & Courses**: Blog posts, walkthroughs, and lecture series focused on building video agents.
+
 
 ## Papers
 _Organize papers chronologically (newest first) with concise summaries and links to code if available._
@@ -49,7 +46,7 @@ _Organize papers chronologically (newest first) with concise summaries and links
 
 #### Training-Free
 
-| Paper | Release Date (arXiv v1) | Github |
+| Paper | Release Date | Github |
 | --- | --- | --- |
 | [AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/search/?query=AVATAAR%3A+Agentic+Video+Answering+via+Temporal+Adaptive+Alignment+and+Reasoning&searchtype=all&source=header) | 2025-11 | N/A |
 | [Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding](https://arxiv.org/search/?query=Agentic+Video+Intelligence%3A+A+Flexible+Framework+for+Advanced+Video+Exploration+and+Understanding&searchtype=all&source=header) | 2025-11 | N/A |
@@ -69,6 +66,7 @@ _Organize papers chronologically (newest first) with concise summaries and links
 | [LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](https://arxiv.org/abs/2503.01928) | 2025-03 | [64327069/LVAgent](https://github.com/64327069/LVAgent) |
 | [AVA: Towards Agentic Video Analytics with Vision Language Models](https://arxiv.org/abs/2503.01556) | 2025-03 | [I-ESC/Project-Ava](https://github.com/I-ESC/Project-Ava) |
 | [VCA: Video Curious Agent for Long Video Understanding](https://arxiv.org/search/?query=VCA%3A+Video+Curious+Agent+for+Long+Video+Understanding&searchtype=all&source=header) | 2024-12 | N/A |
+| [OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer](https://arxiv.org/search/?query=VCA%3A+Video+Curious+Agent+for+Long+Video+Understanding&searchtype=all&source=header) | 2024-06 | N/A |
 | [VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos](https://arxiv.org/abs/2405.05322) | 2024-05 | [Ziyang412/VideoTree](https://github.com/Ziyang412/VideoTree) |
 | [MoReVQA: Exploring Modular Reasoning Models for Video Question Answering](https://arxiv.org/search/?query=MoReVQA%3A+Exploring+Modular+Reasoning+Models+for+Video+Question+Answering&searchtype=all&source=header) | 2024-04 | N/A |
 | [Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning](https://arxiv.org/search/?query=Chain-of-Frames%3A+Advancing+Video+Understanding+in+Multimodal+LLMs+via+Frame-Aware+Reasoning&searchtype=all&source=header) | 2024-03 | [SaraGhazanfari/CoF](https://github.com/SaraGhazanfari/CoF) |
@@ -78,7 +76,7 @@ _Organize papers chronologically (newest first) with concise summaries and links
 
 #### Training-Based
 
-| Paper | Release Date (arXiv v1) | Github |
+| Paper | Release Date | Github |
 | --- | --- | --- |
 | [VIDEO-THINKER: SPARKING “THINKING WITH VIDEOS” VIA REINFORCEMENT LEARNING](https://arxiv.org/search/?query=VIDEO-THINKER%3A+SPARKING+%E2%80%9CTHINKING+WITH+VIDEOS%E2%80%9D+VIA+REINFORCEMENT+LEARNING&searchtype=all&source=header) | 2025-10 | [shijian2001/Video-Thinker](https://github.com/shijian2001/Video-Thinker) |
 | [EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](https://arxiv.org/search/?query=EgoThinker%3A+Unveiling+Egocentric+Reasoning+with+Spatio-Temporal+CoT&searchtype=all&source=header) | 2025-10 | [InternRobotics/EgoThinker](https://github.com/InternRobotics/EgoThinker) |
@@ -101,20 +99,12 @@ _Organize papers chronologically (newest first) with concise summaries and links
 | [TIMESEARCH-R: ADAPTIVE TEMPORAL SEARCH FOR LONG-FORM VIDEO UNDERSTANDING VIA SELF-VERIFICATION REINFORCEMENT LEARNING](https://arxiv.org/search/?query=TIMESEARCH-R%3A+ADAPTIVE+TEMPORAL+SEARCH+FOR+LONG-FORM+VIDEO+UNDERSTANDING+VIA+SELF-VERIFICATION+REINFORCEMENT+LEARNING&searchtype=all&source=header) | N/A | N/A |
 | [VIDEOZOOMER: REINFORCEMENT-LEARNED TEMPORAL FOCUSING FOR LONG VIDEO REASONING](https://arxiv.org/search/?query=VIDEOZOOMER%3A+REINFORCEMENT-LEARNED+TEMPORAL+FOCUSING+FOR+LONG+VIDEO+REASONING&searchtype=all&source=header) | N/A | N/A |
 
-## Benchmarks
+## Evaluation and Benchmarks
 _List benchmarks with key metrics, task coverage, and official evaluation scripts._
 - TBD
 
 ## Datasets
 _Describe dataset scale, modality, licensing, and download links._
-- TBD
-
-## Frameworks & Tooling
-_Highlight libraries, agents, or reference implementations for video understanding and decision-making._
-- TBD
-
-## Tutorials & Courses
-_Add learning materials such as blog posts, tutorials, and lecture notes._
 - TBD
 
 ## Contributing
