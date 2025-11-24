@@ -1,32 +1,31 @@
 # Awesome-Video-Agent
 
-A curated collection of papers, benchmarks, codebases for building multimodal **video agents**, mainly focusing on the **'think with videos'** paradigm.
+This repository collects research on **multimodal video agents** — systems that *think with videos* to perceive, reason, and act. Concretely, we focus on works that:
+
+- **Build agentic video systems** that go beyond passive perception, such as:
+  - Video understanding with temporal zoom-in / search, frame- or shot-level CoT, cross-video reasoning, and streaming token selection.
+  - Tool-using agents (e.g., retrieval, external planners, simulators, search engines) for complex video exploration and decision-making.
+  - Multi-agent or multi-round collaboration, uncertainty-aware CoT, and task divide-and-conquer for robust long-video understanding.
+
+- **Leverage learning to improve video reasoning**, including:
+  - Reinforcement learning, curiosity-driven objectives, and agentic data synthesis to train “think-with-video” policies.
+  - Training-free pipelines that orchestrate existing VLMs/MLLMs via prompting, scheduling, and temporal policies.
+
+- **Connect video reasoning with generation**, including:
+  - Video generation models evaluated for reasoning ability, and unified benchmarks that treat generation as a reasoning paradigm.
+  - Benchmarks, leaderboards, and toolkits for measuring video-agent capabilities (e.g., long-video QA, temporal reasoning, agentic behavior).
+
+ 
 ## Table of Contents
 - [Updates](#updates)
-- [Scope](#scope)
-- [Resource Overview](#resource-overview)
-- [Papers](#papers)
-- [Evaluation and Benchmarks](#benchmarks)
-- [Datasets](#datasets)
+- [Papers](#papers): Novel architectures, training strategies, or agent designs centered on video understanding.
+- [Evaluation and Benchmarks](#benchmarks): Public leaderboards or evaluation suites targeting temporal reasoning or agent capabilities.
+- [Datasets](#datasets): Curated video corpora for supervised, self-supervised, or reinforcement learning.
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Updates
 - **2025-11-24**: Repository released.
-
-## Scope
-This list focuses on resources that help build agents capable of understanding, reasoning over, and acting upon video streams. Relevant topics include:
-- Multimodal large language models (MLLMs) that ingest video inputs.
-- Video captioning, QA, and temporal reasoning.
-- Embodied or tool-using agents leveraging video perception.
-- Planning, alignment, and safety for video-based autonomy.
-
-## Resource Overview
-Use the following sections as anchors for contributions:
-- **Papers**: Novel architectures, training strategies, or agent designs centered on video understanding.
-- **Benchmarks**: Public leaderboards or evaluation suites targeting temporal reasoning or agent capabilities.
-- **Datasets**: Curated video corpora for supervised, self-supervised, or reinforcement learning.
-
 
 ## Papers
 _Organize papers chronologically (newest first) with concise summaries and links to code if available._
