@@ -1,7 +1,6 @@
 # Awesome-Video-Agent
 
-A curated collection of papers, benchmarks, codebases, and other learning resources for building multimodal **video agents**. Inspired by the style of [Awesome Think With Images](https://github.com/zhaochen0110/Awesome_Think_With_Images), this repository organizes the latest progress on perception, reasoning, and action in video-driven systems.
-
+A curated collection of papers, benchmarks, codebases, and other learning resources for building multimodal **video agents**. 
 ## Table of Contents
 - [Updates](#updates)
 - [Scope](#scope)
@@ -15,7 +14,7 @@ A curated collection of papers, benchmarks, codebases, and other learning resour
 - [License](#license)
 
 ## Updates
-- **2024-08-12**: Repository initialized with structure modeled after Awesome Think With Images.
+- **2025-11-24**: Repository released.
 
 ## Scope
 This list focuses on resources that help build agents capable of understanding, reasoning over, and acting upon video streams. Relevant topics include:
