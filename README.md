@@ -23,7 +23,7 @@ This repository collects research on **multimodal video agents** — systems tha
 - **2025-11-24**: Repository released.
 
 ## Papers
-_Organize papers chronologically (newest first) with concise summaries and links to code if available._
+_Organize papers chronologically (newest first) with links to code if available._
 
 ### Understanding-based
 
