@@ -33,14 +33,15 @@ _Organize papers chronologically (newest first) with concise summaries and links
 
 ### Generation-based
 
-| Paper | Release Date | Github |
-| --- | --- | --- |
-| [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://arxiv.org/search/?query=V-ReasonBench%3A+Toward+Unified+Reasoning+Benchmark+Suite+for+Video+Generation+Models&searchtype=all&source=header) | 2025-11 | [yangluo7/V-ReasonBench](https://github.com/yangluo7/V-ReasonBench) |
-| [Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/search/?query=Reasoning+via+Video%3A+The+First+Evaluation+of+Video+Models%E2%80%99+Reasoning+Abilities+through+Maze-Solving+Tasks&searchtype=all&source=header) | 2025-11 | [ImYangC7/VR-Bench](https://github.com/ImYangC7/VR-Bench) |
-| [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/search/?query=Thinking+with+Video%3A+Video+Generation+as+a+Promising+Multimodal+Reasoning+Paradigm&searchtype=all&source=header) | 2025-11 | [tongjingqi/Thinking-with-Video](https://github.com/tongjingqi/Thinking-with-Video) |
-| [RETHINKING VISUAL INTELLIGENCE: INSIGHTS FROM VIDEO PRETRAINING](https://arxiv.org/search/?query=RETHINKING+VISUAL+INTELLIGENCE%3A+INSIGHTS+FROM+VIDEO+PRETRAINING&searchtype=all&source=header) | 2025-10 | [PabloAcuaviva/visual-intelligence](https://github.com/PabloAcuaviva/visual-intelligence) |
-| [Video models are zero-shot learners and reasoners](https://arxiv.org/search/?query=Video+models+are+zero-shot+learners+and+reasoners&searchtype=all&source=header) | 2025-09 | N/A |
-| [VMEvalKit](https://arxiv.org/search/?query=VMEvalKit&searchtype=all&source=header) | 2024-07 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) |
+| Paper                                                                                                                                             | Release Date | Github                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------- |
+| [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://arxiv.org/pdf/2511.16668.pdf)                       | 2025-11      | [yangluo7/V-ReasonBench](https://github.com/yangluo7/V-ReasonBench)                       |
+| [Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/pdf/2511.15065.pdf) | 2025-11      | [ImYangC7/VR-Bench](https://github.com/ImYangC7/VR-Bench)                                 |
+| [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/pdf/2511.04570.pdf)                        | 2025-11      | [tongjingqi/Thinking-with-Video](https://github.com/tongjingqi/Thinking-with-Video)       |
+| [RETHINKING VISUAL INTELLIGENCE: INSIGHTS FROM VIDEO PRETRAINING](https://arxiv.org/pdf/2510.24448.pdf)                                           | 2025-10      | [PabloAcuaviva/visual-intelligence](https://github.com/PabloAcuaviva/visual-intelligence) |
+| [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328.pdf)                                                         | 2025-09      | N/A                                                                                       |
+| [VMEvalKit](https://arxiv.org/pdf/2407.11691.pdf)                                                                                                 | 2024-07      | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit)                     |
+
 
 ### Understanding-based
 
