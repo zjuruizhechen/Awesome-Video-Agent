@@ -35,6 +35,8 @@ Use the following sections as anchors for contributions:
 ## Papers
 _Organize papers chronologically (newest first) with concise summaries and links to code if available._
 
+### Generation-based
+
 | Paper | Release Date | Github |
 | --- | --- | --- |
 | [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://arxiv.org/search/?query=V-ReasonBench%3A+Toward+Unified+Reasoning+Benchmark+Suite+for+Video+Generation+Models&searchtype=all&source=header) | 2025-11 | [yangluo7/V-ReasonBench](https://github.com/yangluo7/V-ReasonBench) |
@@ -43,6 +45,10 @@ _Organize papers chronologically (newest first) with concise summaries and links
 | [RETHINKING VISUAL INTELLIGENCE: INSIGHTS FROM VIDEO PRETRAINING](https://arxiv.org/search/?query=RETHINKING+VISUAL+INTELLIGENCE%3A+INSIGHTS+FROM+VIDEO+PRETRAINING&searchtype=all&source=header) | 2025-10 | [PabloAcuaviva/visual-intelligence](https://github.com/PabloAcuaviva/visual-intelligence) |
 | [Video models are zero-shot learners and reasoners](https://arxiv.org/search/?query=Video+models+are+zero-shot+learners+and+reasoners&searchtype=all&source=header) | 2025-09 | N/A |
 | [VMEvalKit](https://arxiv.org/search/?query=VMEvalKit&searchtype=all&source=header) | 2024-07 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) |
+
+### Understanding-based
+
+#### Training-Free
 
 | Paper | Release Date (arXiv v1) | Github |
 | --- | --- | --- |
@@ -70,6 +76,8 @@ _Organize papers chronologically (newest first) with concise summaries and links
 | [VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding](https://arxiv.org/search/?query=VideoAgent%3A+A+Memory-augmented+Multimodal+Agent+for+Video+Understanding&searchtype=all&source=header) | 2024-03 | [YueFan1014/VideoAgent](https://github.com/YueFan1014/VideoAgent) |
 | [VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/search/?query=VideoAgent%3A+Long-form+Video+Understanding+with+Large+Language+Model+as+Agent&searchtype=all&source=header) | 2024-03 | [wxh1996/VideoAgent](https://github.com/wxh1996/VideoAgent) |
 | [StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding](https://arxiv.org/search/?query=StreamAgent%3A+Towards+Anticipatory+Agents+for+Streaming+Video+Understanding&searchtype=all&source=header) | 2024-02 | [YuruiAI/DistillDrive](https://github.com/YuruiAI/DistillDrive) |
+
+#### Training-Based
 
 | Paper | Release Date (arXiv v1) | Github |
 | --- | --- | --- |
