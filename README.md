@@ -1,4 +1,4 @@
-# Awesome-Video-Agent
+# Awesome-Video-Agent (Think-with-Videos)
 
 This repository collects research on **multimodal video agents** — systems that *think with videos* to perceive, reason, and act. Concretely, we focus on works that:
 
