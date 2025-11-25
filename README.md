@@ -30,11 +30,10 @@ This repository collects research on **multimodal video agents** — systems tha
 ## Papers
 _Organize papers chronologically (newest first) with links to code if available._
 
-- Navigation:
-  - [Understanding-based](#understanding-based)
-    - [Training-Based](#training-based)
-    - [Training-Free](#training-free)
-  - [Generation-based](#generation-based)
+- [Understanding-based](#understanding-based)
+  - [Training-Based](#training-based)
+  - [Training-Free](#training-free)
+- [Generation-based](#generation-based)
 
 ### Understanding-based
 
