@@ -115,6 +115,7 @@ _Organize papers chronologically (newest first) with links to code if available.
 | Paper                                                                                                                                             | Release Date | Github                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------- |
 | [GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?](https://arxiv.org/pdf/2507.09491.pdf)                       | 2025-07      | [aiming-lab/GLIMPSE](https://github.com/aiming-lab/GLIMPSE)                       |
+| [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/pdf/2603.24329) | 2026-03      | [HATS-ICT/GameplayQA](https://github.com/HATS-ICT/GameplayQA) ![GitHub Repo stars](https://img.shields.io/github/stars/HATS-ICT/GameplayQA?style=social) |
 
 
 ## Contributing
