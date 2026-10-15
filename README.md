@@ -41,6 +41,7 @@ _Organize papers chronologically (newest first) with links to code if available.
 
 | Paper | Release Date | Github |
 | --- | --- | --- |
+| [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) | 2026-01 | [MCG-NJU/Video-o3](https://github.com/MCG-NJU/Video-o3) ![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/Video-o3?style=social) |
 | [LongVT: Incentivizing “Thinking with Long Videos” via Native Tool Calling](https://arxiv.org/pdf/2511.20785) | 2025-11 | [EvolvingLMMs-Lab/LongVT](https://github.com/EvolvingLMMs-Lab/LongVT) ![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVT?style=social) |
 | [VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2511.19524) | 2025-11 |  |
 | [VIDEO-THINKER: SPARKING “THINKING WITH VIDEOS” VIA REINFORCEMENT LEARNING](https://arxiv.org/pdf/2510.23473) | 2025-10 | [shijian2001/Video-Thinker](https://github.com/shijian2001/Video-Thinker) ![GitHub Repo stars](https://img.shields.io/github/stars/shijian2001/Video-Thinker?style=social) |
